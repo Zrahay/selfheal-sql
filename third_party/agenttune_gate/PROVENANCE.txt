@@ -1,0 +1,3 @@
+# Vendored verbatim from Lexsi-Labs/AgentTune @ 1dfd054 (origin/main, Nov 12 2026)
+# src/agenttune/decide/closed_loop/deployment_gate.py — LSAL license applies.
+
